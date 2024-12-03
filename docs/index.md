@@ -5,7 +5,7 @@
 In diesem Guide stellen wir dir kurz die Einrichtung unseres Minecraft-Servers unter Windows und die wichtigsten zusätzlichen Funktionen dar.
 Eine genaue Liste aller verwendeten Mods mit Kurzbeschreibung findest du [unten](#modliste).
 
-***Zum Betreten des Servers wird ein offizieller Minecraft-Account und eine vorherige Freischaltung durch die Mods auf <a href="discord.gg/V5bZdZSAdw" target="_blank" rel="noopener noreferrer">Liz' Discord</a> benötigt.***
+***Zum Betreten des Servers wird ein offizieller Minecraft-Account und eine vorherige Freischaltung durch die Mods auf <a href="https://discord.gg/V5bZdZSAdw" target="_blank" rel="noopener noreferrer">Liz' Discord</a> benötigt.***
 
 Falls du keine weiteren Mods verwenden möchtest und schon Minecraft Version 1.21.3 besitzt verbinde dich ohne Mod-Profil unter Mehrspieler mit dem Server ***chipotle.g-portal.game***.
 Hierbei kannst du Funktionen wie den Voicechat und die Statusanzeige nicht verwenden, aber dennoch alle Hauptfunktionen von Minecraft.
