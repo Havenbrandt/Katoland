@@ -58,9 +58,8 @@ Der Server startet jeden Morgen um 06:00 Uhr (MEZ) automatisch neu.
 | Status | Fügt eine Statusanzeige für Streaming etc. hinzu |
 | Xaero's World Map | Erstellt eine Map der aufgedeckten Chunks |
 
-----
-
 ## Modliste - Serverseitig
+
 | Mod | Beschreibung |
 |--|--|
 | Fabric API | siehe oben (Serverseitig) |
@@ -70,8 +69,8 @@ Der Server startet jeden Morgen um 06:00 Uhr (MEZ) automatisch neu.
 | Simple Voice Chat | siehe oben (Serverseitig) |
 | Xaeros World Map | siehe oben (Serverseitig) |
 
-----
 ## Datapacks - Serverseitig
+
 | Datapack | Beschreibung |
 |--|--|
 | AFK Display | Graut AFK-Spieler in der Spielerliste aus |
