@@ -5,16 +5,16 @@
 In diesem Guide stellen wir dir kurz die Einrichtung unseres Minecraft-Servers unter Windows und die wichtigsten zusätzlichen Funktionen dar.
 Eine genaue Liste aller verwendeten Mods mit Kurzbeschreibung findest du [unten](#modliste).
 
-***Zum Betreten des Servers wird ein offizieller Minecraft-Account und eine vorherige Freischaltung durch die Mods auf [Liz' Discord](https://discord.gg/V5bZdZSAdw) benötigt.***
+***Zum Betreten des Servers wird ein offizieller Minecraft-Account und eine vorherige Freischaltung durch die Mods auf <a href="discord.gg/V5bZdZSAdw" target="_blank" rel="noopener noreferrer">Liz' Discord</a> benötigt.***
 
 Falls du keine weiteren Mods verwenden möchtest und schon Minecraft Version 1.21.3 besitzt verbinde dich ohne Mod-Profil unter Mehrspieler mit dem Server ***chipotle.g-portal.game***.
 Hierbei kannst du Funktionen wie den Voicechat und die Statusanzeige nicht verwenden, aber dennoch alle Hauptfunktionen von Minecraft.
 
 Die vollständige Installationsgröße inklusive Minecraft beträgt etwa 700MB.
 
-1. Lade die Modrinth-App [HIER](https://modrinth.com/app) herunter
+1. Lade die Modrinth-App <a href="https://modrinth.com/app" target="_blank" rel="noopener noreferrer">HIER</a> herunter
 2. Installiere die Modrinth-App
-3. Lade das Mod-Profil fürs Katoland [HIER](https://github.com/Havenbrandt/Katoland/raw/refs/heads/main/data/Katoland.mrpack) herunter.
+3. Lade das Mod-Profil fürs Katoland <a href="https://github.com/Havenbrandt/Katoland/raw/refs/heads/main/data/Katoland.mrpack" target="_blank" rel="noopener noreferrer">HIER</a> herunter.
 4. Führe einen Doppelklick auf das heruntergeladene Mod-Profil aus
    Dies öffnet automatisch die Modrinth-App und startet die Installation des Mod-Profils
    Sollte dies nicht funktionieren füge das Mod-Profil manuell hinzu:
@@ -90,9 +90,9 @@ Der Server startet jeden Morgen um 06:00 Uhr (MEZ) automatisch neu.
 | Unlock All Recipes | Schaltet alle Rezepte zu Beginn frei |
 | Wandering Trades | Mehr Waren bei wandernden Händlern verfügbar |
 
-Weitere Informationen zu den Mods findest du auf [Modrinth](https://modrinth.com/mods) oder über die Modrinth-App im Katoland-Profil.
+Weitere Informationen zu den Mods findest du auf <a href="https://modrinth.com/mods" target="_blank" rel="noopener noreferrer">Modrinth</a> oder über die Modrinth-App im Katoland-Profil.
 
-Data Packs stammen von [Vanilla Tweaks](https://vanillatweaks.net/).
+Data Packs stammen von <a href="https://vanillatweaks.net/" target="_blank" rel="noopener noreferrer">Vanilla Tweaks</a>.
 
 
 [Nach Oben](#top)
